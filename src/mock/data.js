@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile_temp.jpg',
-  paragraphOne: 'I am a software developer, passionate about building and optimizing innovative solutions aided with machine learning and artificial intelligence.',
+  paragraphOne: 'I am a software developer, passionate about working on innovative solutions aided with machine learning and artificial intelligence.',
   paragraphTwo: 'Studying Computer Science Engineering at NIT Hamirpur, I am an avid learner, diligently looking for new ideas and methods to transform technologies and norms for the better. I have experience in building and optimizing tools with deep neural networks. I am proficient in data structures, algorithms, and database management systems.',
   paragraphThree: 'I believe learning, innovation, and failures go hand in hand. Great ideas and teamwork bridge the gap between creativity and innovation.',
   resume: 'https://drive.google.com/file/d/1iXRNrzKmuPecPPI_bl6oGMFG4sIm8Rnv/view?usp=sharing', // if no resume, the button will not show up
