@@ -70,11 +70,11 @@ export const footerData = {
       //name: 'twitter',
       //url: '',
     //},
-    {
-      id: nanoid(),
-      name: '',
-      url: '',
-    },
+   // {
+     // id: nanoid(),
+      //name: 'gmail',
+      //url: '',
+    //},
     {
       id: nanoid(),
       name: 'linkedin',
