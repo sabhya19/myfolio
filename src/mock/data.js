@@ -30,7 +30,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'encrypt.jpg',
     title: 'Cipher Forge',
-    info: 'Cipher Forge is structured on an algorithm that uses graph data structures to generate ciphertext from plain text containing capital and minuscule letters/words, and special symbols, separated by spaces.A reverse algorithm is employed to decode the cipher from files. The algorithms shows commendable efficiency even on large data, with extended functionality to interact with file systems. ',
+    info: 'Cipher Forge is structured on an algorithm that uses graph data structures to generate ciphertext from plain text containing capital and minuscule letters/words, and special symbols, separated by spaces.A reverse algorithm is employed to decode the cipher from files. The algorithms show commendable efficiency even on large data, with extended functionality to interact with file systems. ',
     info2: '',
     url: 'https://github.com/sabhya19/Encode-Decode-Tool/',
     repo: 'https://github.com/sabhya19/Encode-Decode-Tool', // if no repo, the button will not show up
