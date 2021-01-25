@@ -44,15 +44,15 @@ export const projectsData = [
     url: 'https://www.kaggle.com/sabhyasood/covid-salvager',
     repo: 'https://www.kaggle.com/sabhyasood/covid-salvager', // if no repo, the button will not show up
   },
-  /*{
+  {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
-    info: '',
+    title: 'Handwritten Digit Recognition',
+    info: 'A Machine Learning tool built from scratch using just NumPy and a few other basic libraries, employed to recognize hand-written digits.  ',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },*/
+    url: 'https://colab.research.google.com/drive/1ycYBAj3PWLvicIi0GXsc1SaafQc628el?usp=sharing',
+    repo: 'https://colab.research.google.com/drive/1ycYBAj3PWLvicIi0GXsc1SaafQc628el?usp=sharing', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
